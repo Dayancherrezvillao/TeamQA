@@ -10,23 +10,23 @@ body {
 header {
     background-color: #99a3a4;
     color: #000000;
-    padding: 1rem 0;
+    padding: 2rem 0;
     text-align: center;
 }
 
 main {
     text-align: center;
-    padding: 2rem;
+    padding: 3rem;
 }
 
 button {
-    padding: 0.5rem 1rem;
+    padding: 1.5rem 1rem;
     background-color: #007BFF;
     color: white;
     border: none;
     border-radius: 5px;
     cursor: pointer;
-    font-size: 1rem;
+    font-size: 1.5rem;
 }
 
 button:hover {
